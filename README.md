@@ -5,9 +5,9 @@ This is a website about the hygiene-health-happy.
 ### This website on the importance of Health and hygiene has been developed for the accomplishment of Future Ready Talent Internship program launched by Microsoft, Future Skills Prime, Quess, Github and EY.
 
 
-**Project Link** -https://delightful-sea-0465bca00.3.azurestaticapps.net/
+**Project Link** - 
 
-**Demo Video Link** -https://youtu.be/-y2uhTMCwQM
+**Demo Video Link** -
 
 # Azure Technologies used for project
 - Static Web apps
@@ -38,5 +38,10 @@ This is a website about the hygiene-health-happy.
 ![chatbotpage](https://github.com/Anantha1357/frtproject3/assets/124561046/dbe5e23c-e421-4a79-93b4-5777ce94ad0e)
 
 
+## Tech Stack 💻
+
+- Azure(Hosting)
+- HTML
+- CSS
 
 
