@@ -39,7 +39,6 @@ This is a website about the hygiene-health-happy.
 
 
 ## Tech Stack 💻
-
 - Azure(Hosting)
 - HTML
 - CSS
