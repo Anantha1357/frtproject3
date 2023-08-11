@@ -1,13 +1,13 @@
-#  ✨Importance of Hyigene and health ✨  
+#  ✨ Hyigene and health ✨  
 
 This is a website about the hygiene-health-happy.
 
-### This website on the importance of Health and hygiene has been developed for the accomplishment of Future Ready Talent Internship program launched by Microsoft, Future Skills Prime, Quess, Github and EY.
+### This website on the importance of Health and hygiene has been developed for Future Ready Talent Internship program launched by Microsoft, Future Skills Prime, Quess, Github and EY.
 
 
-**Project Link** - 
+**Project Link** - https://gentle-desert-042867d00.3.azurestaticapps.net/
 
-**Demo Video Link** -
+**Demo Video Link** -https://youtube.com/watch?v=BlYIYQtNFQg&feature=share
 
 # Azure Technologies used for project
 - Static Web apps
@@ -15,8 +15,7 @@ This is a website about the hygiene-health-happy.
 
 ## Features and Functionalities 😃
 
-- Interactive and responsive UI.
-- Has many graphical and visual innovative effects.
+- Responsive Chatbot .
 - Has collection of many web pages including Home,Efficiency,Defficicency,Facts, Actions,Chatbot.
 - User is able to know about the importance of hygiene and health through the website.
 - Included the actions as a tip to  maintain the hygiene and health and the Chat bot to give suggestions. 
@@ -39,7 +38,7 @@ This is a website about the hygiene-health-happy.
 
 
 ## Tech Stack 💻
-- Azure(Hosting)
+- Azure
 - HTML
 - CSS
 
