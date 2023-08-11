@@ -1,4 +1,4 @@
-#  ✨ Hyigene and health ✨  
+#  ✨ Hygiene and health ✨  
 
 This is a website about the hygiene-health-happy.
 
