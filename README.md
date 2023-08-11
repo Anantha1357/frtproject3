@@ -41,5 +41,6 @@ This is a website about the hygiene-health-happy.
 - Azure
 - HTML
 - CSS
+- java script
 
 
